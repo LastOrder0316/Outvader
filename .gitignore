@@ -1,0 +1,9 @@
+/Debug
+/Release
+/.vs/
+Log.txt
+Test.sln
+Test.vcxproj
+Test.vcxproj.filters
+Test.vcxproj.user
+
